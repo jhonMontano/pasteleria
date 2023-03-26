@@ -1,0 +1,30 @@
+C:\Users\USUARIO\pasteleria\bin\Debug\net7.0\pasteleria.exe
+C:\Users\USUARIO\pasteleria\bin\Debug\net7.0\pasteleria.deps.json
+C:\Users\USUARIO\pasteleria\bin\Debug\net7.0\pasteleria.runtimeconfig.json
+C:\Users\USUARIO\pasteleria\bin\Debug\net7.0\pasteleria.dll
+C:\Users\USUARIO\pasteleria\bin\Debug\net7.0\pasteleria.pdb
+C:\Users\USUARIO\pasteleria\obj\Debug\net7.0\pasteleria.csproj.AssemblyReference.cache
+C:\Users\USUARIO\pasteleria\obj\Debug\net7.0\pasteleria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\pasteleria\obj\Debug\net7.0\pasteleria.AssemblyInfoInputs.cache
+C:\Users\USUARIO\pasteleria\obj\Debug\net7.0\pasteleria.AssemblyInfo.cs
+C:\Users\USUARIO\pasteleria\obj\Debug\net7.0\pasteleria.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\pasteleria\obj\Debug\net7.0\pasteleria.dll
+C:\Users\USUARIO\pasteleria\obj\Debug\net7.0\refint\pasteleria.dll
+C:\Users\USUARIO\pasteleria\obj\Debug\net7.0\pasteleria.pdb
+C:\Users\USUARIO\pasteleria\obj\Debug\net7.0\pasteleria.genruntimeconfig.cache
+C:\Users\USUARIO\pasteleria\obj\Debug\net7.0\ref\pasteleria.dll
+D:\Users\USUARIO\Documents\5to semestre-python\construccion\pasteleria\bin\Debug\net7.0\pasteleria.exe
+D:\Users\USUARIO\Documents\5to semestre-python\construccion\pasteleria\bin\Debug\net7.0\pasteleria.deps.json
+D:\Users\USUARIO\Documents\5to semestre-python\construccion\pasteleria\bin\Debug\net7.0\pasteleria.runtimeconfig.json
+D:\Users\USUARIO\Documents\5to semestre-python\construccion\pasteleria\bin\Debug\net7.0\pasteleria.dll
+D:\Users\USUARIO\Documents\5to semestre-python\construccion\pasteleria\bin\Debug\net7.0\pasteleria.pdb
+D:\Users\USUARIO\Documents\5to semestre-python\construccion\pasteleria\obj\Debug\net7.0\pasteleria.csproj.AssemblyReference.cache
+D:\Users\USUARIO\Documents\5to semestre-python\construccion\pasteleria\obj\Debug\net7.0\pasteleria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\USUARIO\Documents\5to semestre-python\construccion\pasteleria\obj\Debug\net7.0\pasteleria.AssemblyInfoInputs.cache
+D:\Users\USUARIO\Documents\5to semestre-python\construccion\pasteleria\obj\Debug\net7.0\pasteleria.AssemblyInfo.cs
+D:\Users\USUARIO\Documents\5to semestre-python\construccion\pasteleria\obj\Debug\net7.0\pasteleria.csproj.CoreCompileInputs.cache
+D:\Users\USUARIO\Documents\5to semestre-python\construccion\pasteleria\obj\Debug\net7.0\pasteleria.dll
+D:\Users\USUARIO\Documents\5to semestre-python\construccion\pasteleria\obj\Debug\net7.0\refint\pasteleria.dll
+D:\Users\USUARIO\Documents\5to semestre-python\construccion\pasteleria\obj\Debug\net7.0\pasteleria.pdb
+D:\Users\USUARIO\Documents\5to semestre-python\construccion\pasteleria\obj\Debug\net7.0\pasteleria.genruntimeconfig.cache
+D:\Users\USUARIO\Documents\5to semestre-python\construccion\pasteleria\obj\Debug\net7.0\ref\pasteleria.dll
